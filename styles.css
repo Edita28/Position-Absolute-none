@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+
+.Top_Trending_Container {
+    width: 1530px;
+    height: 767px;
+    background-color: #F5F5F5;
+    border-radius: 12px;
+    margin-left: 120px;
+    margin-top: 100px;
+  }
+  .Top_Trending_Text {
+    display: flex;
+    padding-left: 115px;
+    padding-top: 130px;
+    font-family: Inter;
+    font-size: 29.41px;
+    color: #05073c;
+    line-height: 45px;
+    letter-spacing: 0;
+    font-weight: 700;
+  }
+  .Top_Cards{
+    flex-direction: row;
+    display: flex;
+    gap: 30px;
+    margin-left: 120px;
+    margin-top: 40px;
+  }
+
+  .Top_Cards_Paris{
+    width: 300px;
+    height: 388px;
+    border-radius: 12px;
+    border: 1px solid #E7E6E6;
+  }
+  .Top_Cards_New_York{
+    width: 300px;
+    height: 388px;
+    border-radius: 12px;
+    border-radius: 12px;
+    border: 1px solid #E7E6E6;
+  }
+.Top_Cards_London{
+    width: 300px;
+    height: 388px;
+    border-radius: 12px;
+    border-radius: 12px;
+    border: 1px solid #E7E6E6;
+}
+.Top_Cards_Usa{
+    width: 300px;
+    height: 388px;
+    border-radius: 12px;
+    border-radius: 12px;
+    border: 1px solid #E7E6E6;
+}
+.Top_Image{
+    display: flex;
+    width: 278px;
+    height: 198.56px;
+    margin-top: 7px;
+    margin-left: 11px;
+}
+.Top_Location_Text{
+    display: flex;
+    font-family: inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24.38px;
+    letter-spacing: 0;
+    margin-left: 42px;
+    margin-top: 10px;
+    color: #717171;
+}
+.Top_Description{
+    display: flex;
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0;
+    color: #05073C;
+    margin-left: 21px;
+    margin-top: 6px;
+}
+.Top_Rating{
+    display: flex;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24.38px;
+    letter-spacing: 0;
+    margin-left: 101px;
+    margin-top: 8px;
+}
+.Top_Line{
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    width: 258px;
+    height: 41px;
+    border-top:1px solid #E7E6E6;
+    margin-left: 21px;
+    margin-top: 15px;
+}
+.Top_Days{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24.38px;
+    letter-spacing: 0;
+    color: #05073C;
+    margin-top: 13px;
+    margin-left: 21px;
+}
+.Top_Price{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24.38px;
+    letter-spacing: 0;
+    color: #05073C;
+    margin-top: 9px;
+    margin-left: 21px;
+}
+.Price{
+    font-weight: 500;
+    line-height: 30px;
+}
